@@ -1,1 +1,1 @@
-projeto labirinto cuegue até o final !!
+projeto labirinto cuegue até o final evite as armadilhas !!
